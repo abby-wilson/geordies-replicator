@@ -1,0 +1,23 @@
+{
+  "title": "THE GOOD OLD DAYS",
+  "star":  "Captain Kirk",
+  "recipe": {
+    "name":        "Saurian Brandy",
+    "temperature": "60",
+    "ingredients": [
+      "brandy",
+      "orange zest",
+      "cherry"
+    ]
+  },
+  "lines": {
+    "setup":                                     "Kirk smiles back at the blonde officer. So many attractive women in this time period. Thank goodness for the ripple in spacetime. As Kirk follows the woman to the replicator, he wonders why Starfleet changed the women's uniform. The original outfit, mini-dress and go-go boots, was so practical.",
+    "replicator_command":                        "Saurian Brandy.",
+    "anticipating_replicator_creation":          "looks quizzically at the serving plate.",
+    "responding_to_replicator_creation_success": "Truly superb",
+    "move_on_to_next_episode":                   "Congratulations! You may now move on to the next episode.",
+    "responding_to_nothing_on_replicator_plate": "Where is the Saurian Brandy I ordered? ",
+    "responding_to_replicator_creation_failure": "I don't know what this is but this is not the way a Saurian Brandy is suppose to be",
+    "fix_replicator_request":                    "Fix this drink immediately!"
+  }
+}

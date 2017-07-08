@@ -1,0 +1,23 @@
+{
+  "title": "LADIES MAN",
+  "star":  "Riker",
+  "recipe": {
+    "name":        "Trakian Ale",
+    "temperature": "20",
+    "ingredients": [
+      "yeast",
+      "barley",
+      "water"
+    ]
+  },
+  "lines": {
+    "setup":                                     "Riker strides into the party room. He catches the eye of a tall brunette and flashes her a smile. She's interested, he can tell. 'I'll bring her a drink,' he decides. ",
+    "replicator_command":                        "A glass of Trakian Ale.",
+    "anticipating_replicator_creation":          "raises his eyebrows at the serving plate",
+    "responding_to_replicator_creation_success": "Now's that's a Trakian Ale!",
+    "move_on_to_next_episode":                   "Congratulations! You may now move on to the next episode.",
+    "responding_to_nothing_on_replicator_plate": "Where's my ale? I don't see anything.",
+    "responding_to_replicator_creation_failure": "This is wrong. Very wrong.",
+    "fix_replicator_request":                    "Fix this drink. And make it quick!"
+  }
+}

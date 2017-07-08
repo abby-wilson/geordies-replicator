@@ -1,0 +1,23 @@
+{
+  "title": "CATCH UP TIME",
+  "star":  "Tasha",
+  "recipe": {
+    "name":        "Romulan Ale ",
+    "temperature": "70",
+    "ingredients": [
+      "Blue Curacao",
+      "Black Death vodka",
+      "Ginfire"
+    ]
+  },
+  "lines": {
+    "setup":                                     "The party's in full swing by the time Tasha joins it. 'Everyone is at least 3 drinks in,' she thinks. Tasha decides to catch up. After all, this is a party.",
+    "replicator_command":                        "Romunlan Ale.",
+    "anticipating_replicator_creation":          "looks suspiciously at the serving plate.",
+    "responding_to_replicator_creation_success": "Now this Romunlan Ale is perfect",
+    "move_on_to_next_episode":                   "Congratulations! You may now move on to the next episode.",
+    "responding_to_nothing_on_replicator_plate": "There's nothing there!",
+    "responding_to_replicator_creation_failure": "That's not what Romulan Ale tastes like!",
+    "fix_replicator_request":                    "Fix this drink!"
+  }
+}

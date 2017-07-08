@@ -1,0 +1,23 @@
+{
+  "title": "CAFFEINE KICKOFF",
+  "star":  "Geordi",
+  "recipe": {
+    "name":        "Coffee",
+    "temperature": "70",
+    "ingredients": [
+      "coffee",
+      "cream",
+      "sugar"
+    ]
+  },
+  "lines": {
+    "setup":                                     "Geordi wakes up, yawns and stretches. 'Lots to do today to prepare for the Enterprise Gathering tonight,' he says to himself. He puts on his visor and moves to the replicator.",
+    "replicator_command":                        "Coffee, please. Cream and sugar.",
+    "anticipating_replicator_creation":          "looks at the serving plate and picks up the steaming cup of coffee. He takes a long sip.",
+    "responding_to_replicator_creation_success": "Now that's a good Coffee!",
+    "move_on_to_next_episode":                   "Congratulations! You may now move on to the next episode.",
+    "responding_to_nothing_on_replicator_plate": "There's nothing there!",
+    "responding_to_replicator_creation_failure": "That's not a beverage!",
+    "fix_replicator_request":                    "Fix this replicator please!"
+  }
+}

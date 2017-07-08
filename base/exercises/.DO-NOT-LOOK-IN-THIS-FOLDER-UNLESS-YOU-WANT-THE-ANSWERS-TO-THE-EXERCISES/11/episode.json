@@ -1,0 +1,23 @@
+{
+  "title": "THE LOGICAL REFRESHMENT",
+  "star":  "Spock",
+  "recipe": {
+    "name":        "Altair Water",
+    "temperature": "50",
+    "ingredients": [
+      "water",
+      "Altarian lemongrass"
+      
+    ]
+  },
+  "lines": {
+    "setup":                                     "Spock watches Captain Kirk leave, 'The odds that the captain will return and rejoin our conversation are miniscule. Therefore I shall also order a liquid for hydration purposes.' ",
+    "replicator_command":                        "Altair Water",
+    "anticipating_replicator_creation":          "looks at the serving plate, considering",
+    "responding_to_replicator_creation_success": "Yes this is Altair Water",
+    "move_on_to_next_episode":                   "Congratulations! You may now move on to the next episode.",
+    "responding_to_nothing_on_replicator_plate": "I see nothing, thus conclude that the water is not here.",
+    "responding_to_replicator_creation_failure": "There is something amiss with this liquid.",
+    "fix_replicator_request":                    "Correct this error, replicator. I shall wait."
+  }
+}

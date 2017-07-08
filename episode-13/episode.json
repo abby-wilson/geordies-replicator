@@ -1,0 +1,23 @@
+{
+  "title": "JOIN THE PARTY",
+  "star":  "Data",
+  "recipe": {
+    "name":        "Samarian Sunset",
+    "temperature": "50",
+    "ingredients": [
+      "rum",
+      "pomegranate juice",
+      "honey"
+    ]
+  },
+  "lines": {
+    "setup":                                     "Data sees a group singing loudly, Worf and Dianna in a drinking contest. Tasha and Captain Kirk carefully examining their physical differences. Data muses, 'Though I do not require beverage, perhaps one would allow me to share in some of the experiences enjoyed by my colleages and friends.'",
+    "replicator_command":                        "A Samarian Sunset, please.",
+    "anticipating_replicator_creation":          "looks at the serving plate and tilts his head.",
+    "responding_to_replicator_creation_success": "Yes, this is a proper Samarian Sunset.",
+    "move_on_to_next_episode":                   "Congratulations! You may now move on to the next episode.",
+    "responding_to_nothing_on_replicator_plate": "Replicator, I do not see the beverage that I requested. In fact, I do not see any beverage at all. ",
+    "responding_to_replicator_creation_failure": "This has not been formuated to the correct specifications",
+    "fix_replicator_request":                    "Please make the neccessary corrections."
+  }
+}

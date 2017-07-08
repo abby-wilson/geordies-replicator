@@ -1,0 +1,23 @@
+{
+  "title": "AFTERMATH",
+  "star":  "Guinan",
+  "recipe": {
+    "name":        "Bajoran Tea ",
+    "temperature": "80",
+    "ingredients": [
+      "water",
+      "Northstar rosehip",
+      "lemonleaf"
+    ]
+  },
+  "lines": {
+    "setup":                                     "'The ship is quiet,' Guinan thinks as she opens her bar for business. She isn't surprised. Not after last night's festivities. She knows the crew will need a friendly face and a kind listener. She picks up a forgotten phaser and a shiny workout onesie. It's going to be one of those days.",
+    "replicator_command":                        "Bajoran Tea, please.",
+    "anticipating_replicator_creation":          "looks at the serving plate thoughtfully.",
+    "responding_to_replicator_creation_success": "Wonderful. Simply wonderful.",
+    "move_on_to_next_episode":                   "Congratulations! You may now move on to the next episode.",
+    "responding_to_nothing_on_replicator_plate": "Replicator, I don't see my tea.",
+    "responding_to_replicator_creation_failure": "I'm not sure what this is, but it isn't Bajoran Tea.",
+    "fix_replicator_request":                    "Replicator, please fix this."
+  }
+}

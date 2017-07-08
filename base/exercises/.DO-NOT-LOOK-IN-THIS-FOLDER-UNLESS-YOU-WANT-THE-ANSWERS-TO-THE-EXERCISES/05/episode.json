@@ -1,0 +1,23 @@
+{
+  "title": "17:00",
+  "star":  "O'Brien",
+  "recipe": {
+    "name":        "Finagle's Folly",
+    "temperature": "50",
+    "ingredients": [
+      "vodka",
+      "scotch",
+      "bajoran mint"
+    ]
+  },
+  "lines": {
+    "setup":                                     "O'Brien completes the transporter adjustments, just in time for the guests to arrive. O'Brien glances at his watch, 'It's 17:00 hours somewhere,' he shrugs. Time to get this party started. ",
+    "replicator_command":                        "One Finagle's Folly",
+    "anticipating_replicator_creation":          "looks at the serving plate",
+    "responding_to_replicator_creation_success": "Very nice. A perfectly mixed Finagle's Folly",
+    "move_on_to_next_episode":                   "Congratulations! You may now move on to the next episode.",
+    "responding_to_nothing_on_replicator_plate": "There's nothing for me to drink!",
+    "responding_to_replicator_creation_failure": "This is horrible!",
+    "fix_replicator_request":                    "Fix this drink please!"
+  }
+}

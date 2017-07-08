@@ -1,0 +1,23 @@
+{
+  "title": "CHOCOLATE SOLVES EVERYTHING",
+  "star":  "Dianna",
+  "recipe": {
+    "name":        "Chocolate Passion Punch",
+    "temperature": "40",
+    "ingredients": [
+      "Chocolate",
+      "Milk",
+      "Rum"
+    ]
+  },
+  "lines": {
+    "setup":                                     "Dianna hears the hiss of her cabin doors opening and then a familiar voice, 'They'll be many handsome men at the party tonight dear. Perhaps you'll snag one.' 'Mother!' Dianna exclaims 'What are you doing here?'",
+    "replicator_command":                        "I need a Chocolate Passion Punch now.",
+    "anticipating_replicator_creation":          "looks at the serving plate.",
+    "responding_to_replicator_creation_success": "Absolutely delicious.",
+    "move_on_to_next_episode":                   "Congratulations! You may now move on to the next episode.",
+    "responding_to_nothing_on_replicator_plate": "Where is it? There's nothing here!",
+    "responding_to_replicator_creation_failure": "I'm terribly disappointed by this Chocolate Punch. It's not making me feel better at all!",
+    "fix_replicator_request":                    "Replicator, please fix this!"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "title": "AN ANCIENT CURE",
+  "star":  "Geordi",
+  "recipe": {
+    "name":        "Slusho",
+    "temperature": "20",
+    "ingredients": [
+      "crushed ice",
+      "bourbon",
+      "ginger ale"
+    ]
+  },
+  "lines": {
+    "setup":                                     "Geordi rolls out of bed. His head pounds, his stomach is queasy and his whole body feels like dry mouth. 'Hundreds of years ago humans had a trick to fix these ailments,'Geordi thinks, 'now what was it?' He remembers. 'Hair of the dog'.",
+    "replicator_command":                        "Slusho, please. And not with synthehol either. The real stuff",
+    "anticipating_replicator_creation":          "looks at the serving plate.",
+    "responding_to_replicator_creation_success": "Finally, a real Slusho. Just what I need.",
+    "move_on_to_next_episode":                   "Congratulations! You may now move on to the next episode.",
+    "responding_to_nothing_on_replicator_plate": "I might be ill, but I can tell there's nothing there.",
+    "responding_to_replicator_creation_failure": "This is awful. How can you call this a Slusho?",
+    "fix_replicator_request":                    "Replicator, fix this please."
+  }
+}

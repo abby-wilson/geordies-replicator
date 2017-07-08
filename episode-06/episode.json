@@ -1,0 +1,23 @@
+{
+  "title": "PARTY PANIC",
+  "star":  "Barkly",
+  "recipe": {
+    "name":        "Arcturian Fizz",
+    "temperature": "30",
+    "ingredients": [
+      "Peach schapps",
+      "ginger ale",
+      "MDMA"
+    ]
+  },
+  "lines": {
+    "setup":                                     "Barkly paces nervously in his quarters. The prospect of the reunion party terrifies him. He never knows what to do or say at social events. 'I know what'll relax me.'",
+    "replicator_command":                        "Arcturian Fizz, please replicator.",
+    "anticipating_replicator_creation":          "looks hard at the serving plate.",
+    "responding_to_replicator_creation_success": "That's the Arcturian Fizz that I want. ",
+    "move_on_to_next_episode":                   "Congratulations! You may now move on to the next episode.",
+    "responding_to_nothing_on_replicator_plate": "There's nothing there!",
+    "responding_to_replicator_creation_failure": "Something is definitely wrong with my Fizz",
+    "fix_replicator_request":                    "Please fix it. I really need this drink!"
+  }
+}

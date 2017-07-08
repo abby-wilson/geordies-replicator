@@ -1,0 +1,22 @@
+{
+  "title": "TEA TIME WITH PICARD",
+  "star":  "Captain Picard",
+  "recipe": {
+    "name":        "Earl Grey Tea",
+    "temperature": "90",
+    "ingredients": [
+      "tea",
+      "sugar"
+    ]
+  },
+  "lines": {
+    "setup":                                     "Captain Picard decides he has enough time for a spot of tea before his guests arrive. ‘So fortunate we discovered that ripple in the spacetime continuum,' he thinks, 'allowing us to unite Enterprise crews - past, present and future.' ",
+    "replicator_command":                        "Tea. Earl Grey. Hot.",
+    "anticipating_replicator_creation":          "looks at the serving plate.",
+    "responding_to_replicator_creation_success": "That's an excellent cup of Earl Grey!",
+    "move_on_to_next_episode":                   "Congratulations! You may now move on to the next episode.",
+    "responding_to_nothing_on_replicator_plate": "There's nothing there!",
+    "responding_to_replicator_creation_failure": "This isn't tea. This an abomination for which I have not the patience nor temperment.",
+    "fix_replicator_request":                    "Replicator, correct this gross miscalculation!"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "title": "FIRE IN THE BLOOD",
+  "star":  "Worf",
+  "recipe": {
+    "name":        "Bloodwine",
+    "temperature": "80",
+    "ingredients": [
+      "Blood",
+      "sugar",
+      "yeast"
+    ]
+  },
+  "lines": {
+    "setup":                                     "Worf enters the party room and scowls. ‘A party is a suitable pastime for children,' he mutters, 'not for a Klingon warrior'. He sighs and makes his way to the replicator. ",
+    "replicator_command":                        "A glass of bloodwine. Make it sweet, warm and young.",
+    "anticipating_replicator_creation":          "scowls at the serving plate",
+    "responding_to_replicator_creation_success": "A glassbloodwine worthy of Klignon glory",
+    "move_on_to_next_episode":                   "Congratulations! You may now move on to the next episode.",
+    "responding_to_nothing_on_replicator_plate": "I see nothing here. I demand to have my wine!",
+    "responding_to_replicator_creation_failure": "This is a disgrace. If you weren't a machine I would disembowel you!",
+    "fix_replicator_request":                    "Fix this, replicator! Or you shall lose your honour."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "title": "MIDNIGHT VISITOR",
+  "star":  "Lwaxana",
+  "recipe": {
+    "name":        "Jestral Tea",
+    "temperature": "80",
+    "ingredients": [
+      "jasmine",
+      "water",
+      "apricot"
+    ]
+  },
+  "lines": {
+    "setup":                                     "Lwaxana relaxes in her guest room on the Enterprise. She beamed over in the night before when nearly everyone was sleeping. Not even her daughter knew she was there.",
+    "replicator_command":                        "Replicator, make me a Jestral Tea.",
+    "anticipating_replicator_creation":          "looks at the serving plate distainfully.",
+    "responding_to_replicator_creation_success": "That's much better.' She sighed contentedly. 'Now, time for a visit.'",
+    "move_on_to_next_episode":                   "Congratulations! You may now move on to the next episode.",
+    "responding_to_nothing_on_replicator_plate": "There's nothing there!",
+    "responding_to_replicator_creation_failure": "This is atrocious! Certainly not good enough for a Betazoid Ambassador!",
+    "fix_replicator_request":                    "Fix this, immediately!"
+  }
+}
